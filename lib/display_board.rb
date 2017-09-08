@@ -2,9 +2,9 @@
 def display_board
   puts <<-HEREDOC
    |   |
------------
+------------
    |   |
------------
+------------
    |   |
   HEREDOC
 end

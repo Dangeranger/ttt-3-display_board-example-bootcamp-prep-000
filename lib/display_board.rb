@@ -8,3 +8,5 @@ def display_board
        |   |
   HEREDOC
 end
+
+display_board
